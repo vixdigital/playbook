@@ -1,0 +1,181 @@
+$vix-pink: #E7476F;
+$vix-grey: #9B9B9B;
+$vix-black: #333;
+
+$sans-serif-font-family: 'Poppins', Arial, sans-serif;
+$serif-font-family: 'Lora', Times New Roman, serif;
+$letter-spacing: 0.0825rem;
+$font-weight-bold: 600;
+$font-weight-regular: 300;
+$line-height: 1.7;
+
+.font-weight_light {
+    font-weight: 400;
+}
+
+.return-to-home {
+    color: $vix-pink;
+    font-weight: 500;
+}
+
+  div,
+  dl,
+  dt,
+  dd,
+  ul,
+  ol,
+  li,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  pre,
+  form,
+  p,
+  blockquote,
+  th,
+  td {
+    margin: 0;
+    padding: 0;
+  }
+
+h1 {
+    font-size: 44px;
+    color: $vix-pink;
+    margin-bottom: 0.5rem;
+}
+
+h4 {
+    font-size: 22px;
+    color: $vix-grey;
+    font-weight: 500;
+    margin-bottom: 0.5rem;    
+}
+
+p {
+    margin-bottom: 1rem;
+    font-size: inherit;
+    line-height: 1.6;
+    text-rendering: optimizeLegibility;
+}
+
+body, p {
+    color: $vix-black;
+    font-size: 16px;
+    font-family: $sans-serif-font-family;
+    line-height: $line-height;
+    font-weight: $font-weight-regular;
+}
+
+hr {
+    border: 0;
+    height: 0;
+    border-bottom: 1.5px solid $vix-pink;
+    margin-top: 30px;
+}
+
+a {
+    text-decoration: underline;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.page-wrapper {
+    max-width: 740px;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+.topbar__logo {    
+    display: block;
+    height: 88px;
+    margin: 50px auto;
+}
+
+.page-header {
+    text-align: center;
+    letter-spacing: $letter-spacing;
+}
+
+.page-header__title {
+    margin-bottom: 50px;
+    font-family: $sans-serif-font-family;
+    text-transform: uppercase;
+}
+
+.page-header__subtitle {
+    margin-bottom: 50px;
+    font-family: $sans-serif-font-family;
+    line-height: 2.1;
+}
+
+.main-content {
+    margin-top: 60px;
+}
+
+.section {
+    margin-bottom: 90px;
+}
+
+.section__title {
+    font-family: $sans-serif-font-family;
+    color: $vix-pink;
+    text-transform: uppercase;
+    letter-spacing: $letter-spacing;
+    font-weight: 600;
+}
+
+.section__link {
+    font-family: $sans-serif-font-family;
+    font-weight: 500;
+    color: $vix-grey;
+}
+
+.section__content {
+    margin-bottom: 90px;
+}
+
+.section__content a {
+    color: $vix-pink;
+}
+
+.section__content h4 {
+    margin-top: 56px;
+}
+
+.section__content p {
+    margin-top: 29px;
+}
+
+.footer {
+    text-align: center;
+    letter-spacing: $letter-spacing;
+}
+
+.footer__logo {
+    height: 65px;
+    display: block;
+    margin: 30px auto;
+}
+
+.footer__credit {
+    margin-bottom: 30px;
+    font-weight: 500;
+    color: $vix-grey;
+    a {
+        color: $vix-grey;
+    }
+}
+
+.footer__social {
+    margin-bottom: 30px;
+}
+
+.footer__social-icon {
+    height: 25px;
+    margin: 0px 7.5px;
+}

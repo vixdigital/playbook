@@ -1,0 +1,85 @@
+---
+layout: default
+---
+<div class="page-header">
+    <h1 class="page-header__title">The Playbook</h1>
+    <h4 class="page-header__subtitle">An instruction manual to help us run great projects</h4>
+</div>
+
+<div class="main-content">
+    <div class="section">
+        <h4 class="section__title">Our Mission</h4>
+        <p>Say something about our mission</p>
+    </div>
+
+    <div class="section">
+        <h4 class="section__title">New Projects</h4>
+        <p>Say something about new projects</p>
+        {% for play in site.plays %}
+            {% if play.categories contains "new-projects" %}
+                <p><a class="section__link" href="{{ play.url | relative_url }}">{{ play.title | escape }}</a></p>
+            {% endif %}
+        {% endfor %}
+    </div>
+
+    <div class="section">
+        <h4 class="section__title">Planning and Communication</h4>
+        <p>Say something about planning and communication</p>
+        {% for play in site.plays %}
+            {% if play.categories contains "planning-and-communication" %}
+                <p><a class="section__link" href="{{ play.url | relative_url }}">{{ play.title | escape }}</a></p>
+            {% endif %}
+        {% endfor %}
+    </div>
+    
+    <div class="section">
+        <h4 class="section__title">Sprints</h4>
+        <p>Say something about sprints</p>
+        {% for play in site.plays %}
+            {% if play.categories contains "sprints" %}
+                <p><a class="section__link" href="{{ play.url | relative_url }}">{{ play.title | escape }}</a></p>
+            {% endif %}
+        {% endfor %}
+    </div>
+
+    <div class="section">
+        <h4 class="section__title">Choosing the Stack</h4>
+        <p>Say something about choosing the stack</p>
+        {% for play in site.plays %}
+            {% if play.categories contains "choosing-the-stack" %}
+                <p><a class="section__link" href="{{ play.url | relative_url }}">{{ play.title | escape }}</a></p>
+            {% endif %}
+        {% endfor %}
+    </div>
+
+    <div class="section">
+        <h4 class="section__title">Designing</h4>
+        <p>Say something about designing</p>
+        {% for play in site.plays %}
+            {% if play.categories contains "designing" %}
+                <p><a class="section__link" href="{{ play.url | relative_url }}">{{ play.title | escape }}</a></p>
+            {% endif %}
+        {% endfor %}
+    </div>
+
+    <div class="section">
+        <h4 class="section__title">Developing</h4>
+        <p>Say something about developing</p>
+        {% for play in site.plays %}
+            {% if play.categories contains "developing" %}
+                <p><a class="section__link" href="{{ play.url | relative_url }}">{{ play.title | escape }}</a></p>
+            {% endif %}
+        {% endfor %}
+    </div>
+
+    <div class="section">
+        <h4 class="section__title">Our Company</h4>
+        <p>Say something about our company</p>
+        {% for play in site.plays %}
+            {% if play.categories contains "our-company" %}
+                <p><a class="section__link" href="{{ play.url | relative_url }}">{{ play.title | escape }}</a></p>
+            {% endif %}
+        {% endfor %}
+    </div>
+</div>
+
