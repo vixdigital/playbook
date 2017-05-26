@@ -151,6 +151,16 @@ a:hover {
     margin-top: 29px;
 }
 
+.section__content blockquote {
+    padding: 0 1em;
+    border-left: 0.2em solid $vix-pink;
+    p {
+        color: #6a737d;
+        font-size: 22px;
+        font-family: $serif-font-family;
+    }
+}
+
 .footer {
     text-align: center;
     letter-spacing: $letter-spacing;
