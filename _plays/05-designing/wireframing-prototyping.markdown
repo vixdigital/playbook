@@ -20,3 +20,4 @@ Focus is placed on ensuring the developers, front and back, are working in sync 
 - Experiement together
 - Prototype and wireframe everything 
 
+![Working insync](https://pbs.twimg.com/media/CaUMmRqWwAAQQ-t.jpg:large)
