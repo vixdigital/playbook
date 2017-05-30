@@ -9,7 +9,7 @@ The entire team are always involved each step of the project. In the design proc
 Our designers will create consise wireframes, user flows and provide any collateral and assets required for the project using sketch or illustrator. The wire frames don't use colours or images, they simply outline content and space allowing the developers to begin creating the architecture for the project. We often create high and low fidelity wireframes depending on the project detail and timescale. 
 
 - Low fi wireframes simply blocks of space and mock content including a nav bar, logo and footer.
-- Hi fi wireframes are an extension of low fi wireframes but allow for a more details of each element such as behaviour and dimension.
+- Hi fi wireframes are an extension of low fi wireframes but allow for more details of each element such as behaviour and dimension.
 
 Focus is placed on ensuring the developers, front and back, are working in sync and able to use the wireframes as blueprints for the project.
 
