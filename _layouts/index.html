@@ -38,16 +38,6 @@ layout: default
             {% endif %}
         {% endfor %}
     </div>
-    
-    <div class="section">
-        <h4 class="section__title">Sprints</h4>
-        <p>Say something about sprints</p>
-        {% for play in site.plays %}
-            {% if play.categories contains "sprints" %}
-                <p><a class="section__link" href="{{ play.url | relative_url }}">{{ play.title | escape }}</a></p>
-            {% endif %}
-        {% endfor %}
-    </div>
 
     <div class="section">
         <h4 class="section__title">Choosing the Stack</h4>
