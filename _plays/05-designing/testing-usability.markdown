@@ -12,7 +12,6 @@ As part of our tool kit we also use invision to create testable prototypes. Invi
 
 Our main form of testing is obvservation. We like to recreate how the user would use the interface in their own environment as much as possible, this allows us to perform non intrusive observations. Heat mapping or screen recording also us to follow the users movement around a page, where they tried to click or hovered without clicking. Using heat mapping also alows use to see patterns which may influence future projects. 
 
-This data is then analysed by the team. What worked, what didn't work and how can we make it better and if changing it will add value to the journey. It could be as simple as moving a button or redesigning a certain part of the user journey. Once these changes have been made we will repeat the steps above but with a new group of users who are fresh to the interface so we can compare and evalute the journeys. 
+This data is then analysed by the team. What worked, what didn't work and how can we make it better and if changing it will add value to the journey. It could be as simple as moving a button or redesigning a certain part of the user journey. Once these changes have been made we will repeat the steps above but with a new group of users who are fresh to the interface so we can compare and evalute the journeys.
 
-
-![Invision Testing](https://lh3.googleusercontent.com/c5W_bRQU7CrYSx_IUnEN3wFoN7seuLTk1J6ELYs5X3XdubjyMKIFN8bzlcb8ZzFryM3WNbuzIvWDJQ=w2880-h1522)
+![Invision Testing](https://image.ibb.co/j9q2ca/Invision_prototyping_app.jpg)
