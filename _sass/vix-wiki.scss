@@ -84,10 +84,6 @@ a:hover {
     text-decoration: none;
 }
 
-img {
-    width: 100%;
-}
-
 .page-wrapper {
     max-width: 740px;
     margin: 0 auto;
@@ -141,6 +137,10 @@ img {
 
 .section__content {
     margin-bottom: 90px;
+}
+
+.section__content img {
+    max-width: 100%;
 }
 
 .section__content a {
