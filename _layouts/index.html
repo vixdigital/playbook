@@ -21,7 +21,7 @@ layout: default
 
     <div class="section">
         <h4 class="section__title">New Projects</h4>
-        <p>We are open and transparent with our Clients. Our mission is to make a product that answers their user's needs and this starts with understanding the problem.</p>
+        <p>We are open and transparent with our clients. Our mission is to make a product that answers their user's needs and this starts with understanding the problem.</p>
         {% for play in site.plays %}
             {% if play.categories contains "new-projects" %}
                 <p><a class="section__link" href="{{ play.url | relative_url }}">{{ play.title | escape }}</a></p>
