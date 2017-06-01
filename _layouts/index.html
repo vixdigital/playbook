@@ -21,7 +21,7 @@ layout: default
 
     <div class="section">
         <h4 class="section__title">New Projects</h4>
-        <p>Say something about new projects</p>
+        <p>We are open and transparent with our Clients. Our mission is to make a product that answers their user's needs and this starts with understanding the problem.</p>
         {% for play in site.plays %}
             {% if play.categories contains "new-projects" %}
                 <p><a class="section__link" href="{{ play.url | relative_url }}">{{ play.title | escape }}</a></p>
@@ -31,7 +31,7 @@ layout: default
 
     <div class="section">
         <h4 class="section__title">Planning and Communication</h4>
-        <p>Say something about planning and communication</p>
+        <p>The key to any successful project is thorough planning and constant communication.</p>
         {% for play in site.plays %}
             {% if play.categories contains "planning-and-communication" %}
                 <p><a class="section__link" href="{{ play.url | relative_url }}">{{ play.title | escape }}</a></p>
@@ -71,7 +71,7 @@ layout: default
 
     <div class="section">
         <h4 class="section__title">Our Company</h4>
-        <p>Say something about our company</p>
+        <p>The heart of the company is our team and together we create pioneering applications. We firmly believe in work hard, play hard.</p>
         {% for play in site.plays %}
             {% if play.categories contains "our-company" %}
                 <p><a class="section__link" href="{{ play.url | relative_url }}">{{ play.title | escape }}</a></p>
