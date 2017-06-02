@@ -17,6 +17,6 @@ Our first step to encouraging collaboration is through great documentation. All 
 
 We try to be as open as possible when developing systems, where appropriate. The aim is to deliver fast and deliver often, backed up with peer reviews and automated testing. By being as transparent as possible we can get quick feedback and not be held back by the notion of getting things absolutely perfect in a development setting before having a second pair of eyes overlook the implementation.
 
-<h4> Communication <h4>
+<h4> Communication </h4>
 
 A recurring theme throughout most of our playbook is good communication strategies. Development is no different, and it is important that everyone is able to track discussions that have happend around individual developments regardless of their location. If it hasn't been written and tracked in an issue, it doesn't exist. We tend to provide key information alongside the tasks that need to be completed with the aim that anyone should be able to contribute to solving the issue without having attended a physical standup, discussion or private message.
