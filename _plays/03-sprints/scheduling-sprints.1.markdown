@@ -15,7 +15,7 @@ Our sprints take place on a Friday, this allows us to review the current weeks s
 
 Our sprint sessions start with the overall goal, then issues are broken down into individual tasks to be completed to hit that goal. These issues are then added to the [GitLab](https://gitlab.com) backlog. Using Git we assign team members, view boards and create sprint milestones which allow us to create burndown charts. 
 
-![Milestone](https://lh4.googleusercontent.com/F2d2vpOpmmkwsMgL6_TrjH9x4Rgcp5-WfF6fmWwpHhKV7LaK95ca9iF0LfmjP6eglPMteigYmJ3eQw=w2880-h1522)
+![Milestone](https://image.ibb.co/hiyesa/Screen_Shot_2017_05_31_at_11_14_19.jpg)
 
 Even if we plan for a sprint to run for 4 weeks at the end of each week we sit together, re-evaluate and re-asses in order for the team to continue moving towards the project goal. 
  
