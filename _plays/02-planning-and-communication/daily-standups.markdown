@@ -3,6 +3,7 @@ title:  "Daily Standups"
 categories: planning-and-communication
 ---
 <h4> Simple yet effective </h4>
+
 We use daily standups as a way to update the team on everyone's status. Daily standups are short and simple but effective. We each take it in turns to talk about the following.
 
 - What we did yesterday
