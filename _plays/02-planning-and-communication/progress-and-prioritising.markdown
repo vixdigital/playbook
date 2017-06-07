@@ -7,7 +7,7 @@ Our primary goal for progress and prioritisation is to deliver the most possible
 
 <h4> Progress </h4>
 
-We track progress on issues using a variety of tools and ceremonies. From daily standup, to kanban boards in Trello, and finally as Issues tracked in our source control. At VIX we are data driven, and all our progress metrics are stored and create automatic burn down charts and other progress tracking metrics to help us gauge our engineering velocity as well as provide clients with an overview of the current progress.
+We track progress on issues using a variety of tools and ceremonies. From daily standup, to kanban boards in Trello, and finally as issues tracked in our source control. At VIX we are data driven, and all our progress metrics are stored and create automatic burn down charts and other progress tracking metrics to help us gauge our engineering velocity as well as provide clients with an overview of the current progress.
 
 <h4> Prioritization </h4>
 

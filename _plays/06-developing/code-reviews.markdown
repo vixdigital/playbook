@@ -1,4 +1,4 @@
 ---
 title:  "Code Reviews"
-categories: developing
+categories: 
 ---

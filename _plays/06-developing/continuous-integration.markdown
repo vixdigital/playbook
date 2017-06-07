@@ -3,9 +3,9 @@ title:  "Continuous Integration"
 categories: developing
 ---
 
-Continuous Integration (CI) is an important part of our workflow at VIX. Essentially CI is a practice that involves merging our code into a share repository continuously throughout the day. For us, this means we all merge our changes into a *latest* branch.
+Continuous Integration (CI) is an important part of our workflow at VIX. Essentially CI is a practice that involves merging our code into a shared repository continuously throughout the day. For us, this means we all merge our changes into a *latest* branch.
 
-Before each change gets merged in it is put through our automated build and test pipeline which will flag up and breaking changes and allow us to ammend them quickly before trying again. 
+Before each change gets merged in it is put through our automated build and test pipeline which will flag up any breaking changes and allow us to ammend them quickly before trying again. 
 
 If our changes pass their initial pipeline run they are merged in to latest which is itself run through the pipeline to make sure it still works post-merge.
 
