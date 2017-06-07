@@ -27,6 +27,6 @@ Once the time is up we invite the candidates to give a show and tell, outlining 
 
 <h4> Feedback </h4>
 
-We like to review as a team as soon as we can to allow us to feedback to the candidates. This will sometimes include a development plan designed to help them can get to where they need to be or they will be invited to join the team. 
+We like to review as a team as soon as we can to allow us to feedback to the candidates. This will sometimes include a development plan designed to help them get to where they need to be or they will be invited to join the team. 
 
 Whatever the outcome in the hiring process we like candidates to feel like they have valued from the experience and leave feeling they have learnt something new. 
