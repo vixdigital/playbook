@@ -12,9 +12,9 @@ Some of the questions we like to ask ourselves when we complete a task are:
 - Did I **fully understand** how what I did works at a technical level?
 
 #### Personal Development Plans
-Every 3 months everyone reviews and updates their own **PDP** which they then discuss with [Chris](http://vix.digital/team/chris) to see if they need any support or training to help them reach their personal development goals and how they have progressed with the goals set last time around.
+Every 3 months everyone reviews and updates their own **PDP** which they then discuss with [Chris](http://vix.digital/team/christopher-shaw) to see if they need any support or training to help them reach their personal development goals and how they have progressed with the goals set last time around.
   
 We all try to help each other meet our personal goals, by pairing, show and tells and brown bag sessions in which we go through something we've learnt in detail so that other people can understand it better and use that knowledge too.
 
 #### 1-to-1s
-At the beginning of each month every team member has a short call or in-person chat with [Chris](http://vix.digital/team/chris). This chat allows Chris to give some brief feedback and gives the team member the chance to talk about how works been going over the past month, any problems they might have and let us know if there's abything they need from VIX as a company to help them in their work.
+At the beginning of each month every team member has a short call or in-person chat with [Chris](http://vix.digital/team/christopher-shaw). This chat allows Chris to give some brief feedback and gives the team member the chance to talk about how works been going over the past month, any problems they might have and let us know if there's abything they need from VIX as a company to help them in their work.
