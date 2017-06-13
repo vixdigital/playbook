@@ -11,12 +11,12 @@ The minimum our sprints will last is one week and the maximum is up to 4 weeks. 
 
 <h4> Backlog </h4>
 
-Our sprints take place on a Friday, this allows us to review the current weeks sprint and plan for the next. Some goals may take more or less time to achieve than estimated or goals may have moved or changed. By holding sprint sessions on a Friday come Monday everyone knows what goals we need to achieve that week. 
+Our sprints take place on a Friday, this allows us to review the current week's sprint and plan for the next. Some goals may take more or less time to achieve than estimated or goals may have moved or changed. By holding sprint sessions on a Friday come Monday everyone knows what goals we need to achieve that week. 
 
 Our sprint sessions start with the overall goal, then issues are broken down into individual tasks to be completed to hit that goal. These issues are then added to the [GitLab](https://gitlab.com) backlog. Using Git we assign team members, view boards and create sprint milestones which allow us to create burndown charts. 
 
 ![Milestone](https://image.ibb.co/hiyesa/Screen_Shot_2017_05_31_at_11_14_19.jpg)
 
-Even if we plan for a sprint to run for 4 weeks at the end of each week we sit together, re-evaluate and re-asses in order for the team to continue moving towards the project goal. 
+Even if we plan for a sprint to run for 4 weeks at the end of each week we sit together, re-evaluate and re-assess in order for the team to continue moving towards the project goal. 
  
  
