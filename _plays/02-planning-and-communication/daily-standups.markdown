@@ -8,7 +8,7 @@ We use daily standups as a way to update the team on everyone's status. Daily st
 
 - What we did yesterday
 - What we are doing today
-- Are we blocked by anything (is there anything stopping up from completing the task)
+- Are we blocked by anything (is there anything stopping us from completing the task)
 
 We hold our standups at 10am everyday, whether you are in the office or working remote you must attend, **stand up waits for no man!** 
 
