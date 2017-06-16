@@ -14,10 +14,10 @@ Instead celebrate the achievements of yourself and your teammates. We want peopl
 #### #2 Transparency
 Be open about as many things as possible. By making information public we can reduce the threshold to contribution and make collaboration easier. 
 
-On a personal level you should tell it like it is instead of putting up a poker face. Don't be afraid to admit you made a mistake or were wrong. When something went wrong it is a great opportunity to say 'what’s the kaizen moment here' and find a better way without hurt feelings. Does the slack conversation need to be private? if not discuss it in the open.
+On a personal level you should tell it like it is instead of putting up a poker face. Don't be afraid to admit you made a mistake or were wrong. When something went wrong it is a great opportunity to say 'what’s the kaizen moment here' and find a better way without hurt feelings. Does the slack conversation need to be private? If not discuss it in the open.
 
 #### #3 Sharing
-We care about great software, a great team and a great environment, share, write documentation, give lessons and brown bag sessions, blog about what you did and what you learnt. We are grateful to our clients for using us, our users for their feedback.
+We care about great software, a great team and a great environment, share, write documentation, give lessons and brown bag sessions, blog about what you did and what you learnt. We are grateful to our clients for using us and our users for their feedback.
 
 #### #4 Efficiency
 We care about working on the right things, not doing more than needed, and not duplicating work. This enables us to achieve more progress with less people and makes our work more fulfilling. 
