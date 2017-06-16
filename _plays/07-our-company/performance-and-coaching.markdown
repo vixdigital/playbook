@@ -17,4 +17,4 @@ Every 3 months everyone reviews and updates their own **PDP** which they then di
 We all try to help each other meet our personal goals, by pairing, show and tells and brown bag sessions in which we go through something we've learnt in detail so that other people can understand it better and use that knowledge too.
 
 #### 1-to-1s
-At the beginning of each month every team member has a short call or in-person chat with [Chris](http://vix.digital/team/christopher-shaw). This chat allows Chris to give some brief feedback and gives the team member the chance to talk about how works been going over the past month, any problems they might have and let us know if there's abything they need from VIX as a company to help them in their work.
+At the beginning of each month every team member has a short call or in-person chat with [Chris](http://vix.digital/team/christopher-shaw). This chat allows Chris to give some brief feedback and gives the team member the chance to talk about how works been going over the past month, any problems they might have and let us know if there's anything they need from VIX as a company to help them in their work.
