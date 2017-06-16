@@ -16,3 +16,5 @@ It is ok to choose the boring solution when it is the best solution. This is a c
 <h4> Delivery focused </h4>
 
 Delivering excellent solutions to market quickly is important to us. We achieve this by utilizing cutting edge technology and open source projects that are ready for adoption. Putting the right tools in the hands of great people to improve engineering velocity.
+
+![Best tools](https://image.ibb.co/nbyDxk/IMG_2363.jpg)
