@@ -26,3 +26,5 @@ We use [Google Mail](https://mail.google.com) for our emails - it's simple, work
 We try to get clients involved as much as possible by inviting them to observe our [Daily Standups](/planning-and-communication/daily-standups) and [Show and Tells](/planning-and-communication/show-and-tells). This reduces the need for the standard meetings that don't provide much value for either of us.
 
 For times when remote meetings are requireed we try to use [Google Hangouts](https://hangouts.google.com/). For some clients such as the NHS we might use [Cisco Webex](https://www.webex.co.uk/) instead as it's their conference app of choice.
+
+![Operations](https://image.ibb.co/eeWixk/IMG_2462.jpg)
