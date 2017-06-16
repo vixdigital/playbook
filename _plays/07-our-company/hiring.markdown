@@ -8,7 +8,7 @@ categories: our-company
 We tailor our hiring process to suit the individual role and person. When finding new members for the team there are a few things we look for.
 - **Cultural Fit** - It is important that the individual fits in with the rest of the team and shares our values. 
 - **Work Ethic** - We know when it's time to play and when it's time to work.
-- **Drive** - We are always improving and working on their development whether it's at work or in their own time. 
+- **Drive** - We are always improving and working on our development whether it's at work or in our own time. 
 - **Fun** - Most importantly we enjoy what we do and have fun doing it. 
 
 This is an outline of what at candidate will experience.   
