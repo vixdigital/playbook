@@ -24,7 +24,7 @@ layout: default
         <p>The key to any successful project is thorough planning and constant communication.</p>
         {% for play in site.plays %}
             {% if play.categories contains "planning-and-communication" %}
-                <p><a class="section__link" href="{{ play.url | relative_url }}">{{ play.title | escape }}</a></p>
+                <p><a class="section__link" href="{{ play.url | site_url }}">{{ play.title | escape }}</a></p>
             {% endif %}
         {% endfor %}
     </div>
@@ -34,7 +34,7 @@ layout: default
         <p>We love technology, but we only use the best tool for the job.</p>
         {% for play in site.plays %}
             {% if play.categories contains "choosing-the-stack" %}
-                <p><a class="section__link" href="{{ play.url | relative_url }}">{{ play.title | escape }}</a></p>
+                <p><a class="section__link" href="{{ play.url | site_url }}">{{ play.title | escape }}</a></p>
             {% endif %}
         {% endfor %}
     </div>
@@ -44,7 +44,7 @@ layout: default
         <p>We constantly like to explore new tools that will make the design process simpler and more efficient. Our designers need to be able to adapt to changes in user needs and technology.</p>
         {% for play in site.plays %}
             {% if play.categories contains "designing" %}
-                <p><a class="section__link" href="{{ play.url | relative_url }}">{{ play.title | escape }}</a></p>
+                <p><a class="section__link" href="{{ play.url | site_url }}">{{ play.title | escape }}</a></p>
             {% endif %}
         {% endfor %}
     </div>
@@ -54,7 +54,7 @@ layout: default
         <p></p>
         {% for play in site.plays %}
             {% if play.categories contains "developing" %}
-                <p><a class="section__link" href="{{ play.url | relative_url }}">{{ play.title | escape }}</a></p>
+                <p><a class="section__link" href="{{ play.url | site_url }}">{{ play.title | escape }}</a></p>
             {% endif %}
         {% endfor %}
     </div>
@@ -64,7 +64,7 @@ layout: default
         <p>The heart of the company is our team and together we create pioneering applications. We firmly believe in work hard, play hard.</p>
         {% for play in site.plays %}
             {% if play.categories contains "our-company" %}
-                <p><a class="section__link" href="{{ play.url | relative_url }}">{{ play.title | escape }}</a></p>
+                <p><a class="section__link" href="{{ play.url | site_url }}">{{ play.title | escape }}</a></p>
             {% endif %}
         {% endfor %}
     </div>
