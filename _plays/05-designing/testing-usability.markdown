@@ -15,3 +15,5 @@ Our main form of testing is observation. We like to recreate how the user would 
 This data is then analysed by the team. What worked, what didn't work and how can we make it better and if changing it will add value to the journey. It could be as simple as moving a button or redesigning a certain part of the user journey. Once these changes have been made we will repeat the steps above but with a new group of users who are fresh to the interface so we can compare and evaluate the journeys.
 
 ![Invision Testing](https://image.ibb.co/dgJAVv/Invision_prototyping_app.jpg)
+
+[Here's a quick guide to usability testing!](https://vix.digital/playbook/testing-usability/)
