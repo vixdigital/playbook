@@ -49,3 +49,5 @@ Bake a cake every now and then, everyone will love you for it and it makes every
 We do things the fun way, if you don't love what you do at work then it's the wrong work. Use sharpies, colour, walls, windows and doors, try to make tasks fun, get others involved. Ride your bike to work, play chess, eat lunch together, laugh.
 
 ![VIX](https://image.ibb.co/iGD2q5/IMG_2435.jpg)
+
+[Here's a guide to defining your own values](https://vix.digital/playbook/values/)
