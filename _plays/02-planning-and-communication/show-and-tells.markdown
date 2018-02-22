@@ -12,3 +12,5 @@ Our internal show and tells are a way for us to round up the week and for each t
 Our external show and tells are a little more formal. We like to invite the client into the studio or visit them on site to give a presentation on how their product is shaping. This is a key contact point in order for us to receive feedback on the current product. These are important as it allows us to ensure our goals are aligned with the clients and they are happy with the progress. It also allows us to highlight any problems or suggest improvements from what we have discovered. 
 
 Prioritization is key when giving a show and tell. We use them to highlight important findings, changes and development rather than try and include everything. 
+
+[Here's a guide to running a Show and Tell](https://vix.digital/playbook/show-tell/)
