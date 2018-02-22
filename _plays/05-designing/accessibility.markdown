@@ -35,3 +35,5 @@ Other elements of your web application such as buttons and other interactables s
 The final principle is simple about making  your website in such as way that it can be properly consumed by various different types of user agent (browser, screen reader etc). After all, if users can't load your website properly, the rest of the principles aren't going to help them very much.
 
 That being said, we try to do our bit to further modern browser adoption. Old browsers are slow, insecure and stunt the advancement of web technologies and design.
+
+[Here's a guide to making your site accessible.](https://vix.digital/playbook/making-your-service-accessible/)
