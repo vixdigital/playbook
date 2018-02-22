@@ -18,3 +18,5 @@ We all try to help each other meet our personal goals, by pairing, show and tell
 
 #### 1-to-1s
 At the beginning of each month every team member has a short call or in-person chat with [Chris](http://vix.digital/team/christopher-shaw). This chat allows Chris to give some brief feedback and gives the team member the chance to talk about how works been going over the past month, any problems they might have and let us know if there's anything they need from VIX as a company to help them in their work.
+
+Want to find out how to conduct your own one to ones? [Click here](https://vix.digital/playbook/performance-coaching/)
