@@ -23,7 +23,7 @@ We use [Google Docs](https://docs.google.com) to create easily shareable, collab
 We use [Google Mail](https://mail.google.com) for our emails - it's simple, works well and integrates with the rest of the tools we use.
 
 #### Meetings
-We try to get clients involved as much as possible by inviting them to observe our [Daily Standups](/planning-and-communication/daily-standups) and [Show and Tells](/planning-and-communication/show-and-tells). This reduces the need for the standard meetings that don't provide much value for either of us.
+We try to get clients involved as much as possible by inviting them to observe our [Daily Standups](https://vix.digital/playbook/daily-stand-ups/) and [Show and Tells](https://vix.digital/playbook/show-tell/). This reduces the need for the standard meetings that don't provide much value for either of us.
 
 For times when remote meetings are requireed we try to use [Google Hangouts](https://hangouts.google.com/). For some clients such as the NHS we might use [Cisco Webex](https://www.webex.co.uk/) instead as it's their conference app of choice.
 
