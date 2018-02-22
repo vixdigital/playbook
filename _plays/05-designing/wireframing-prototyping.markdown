@@ -22,3 +22,4 @@ Focus is placed on ensuring the developers, front and back, are working in sync 
 - Experiment together
 - Prototype and wireframe everything 
 
+[Click here for a guide to creating prototypes.](https://vix.digital/playbook/creating-prototypes/)
