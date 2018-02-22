@@ -18,5 +18,7 @@ Our sprint sessions start with the overall goal, then issues are broken down int
 ![Milestone](https://image.ibb.co/hiyesa/Screen_Shot_2017_05_31_at_11_14_19.jpg)
 
 Even if we plan for a sprint to run for 4 weeks at the end of each week we sit together, re-evaluate and re-assess in order for the team to continue moving towards the project goal. 
+
+Want to know how to run a sprint session? [Click here](https://vix.digital/playbook/sprint-planning/)
  
  
